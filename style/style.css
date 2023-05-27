@@ -1,10 +1,10 @@
 .main-title {
-  color: rgb(255, 255, 255);
+  color: rgb(82, 61, 108);
   font-family: "Courier New", Courier, monospace;
   text-align: center;
   font-size: 42px;
   text-transform: uppercase;
-  text-shadow: 5px 5px 7px rgb(0, 0, 0);
+  text-shadow: 5px 5px 7px rgb(63, 120, 111);
 }
 
 .main-photo {
@@ -74,7 +74,7 @@ body {
 .pages-link {
   font-family: 'Kaushan Script';
   text-decoration: none;
-  text-shadow: 3px 1px 3px black;
+  text-shadow: 3px 1px 3px rgb(98, 61, 106);
   font-size: 36px;
 }
 
@@ -84,7 +84,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(225, 103, 255, 0.5);
+  background-color: rgba(162, 147, 169, 0.5);
   display: flex;
   align-items: center;
   justify-content: center;
