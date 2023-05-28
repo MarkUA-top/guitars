@@ -17,9 +17,7 @@
     /* background-image:linear-gradient(to right bottom, skyblue, violet, gold, orange); */
     background-image: radial-gradient(ellipse at top center,
         rgb(255, 255, 255),
-        rgb(130, 180, 238),
-        rgb(31, 221, 107),
-        rgb(144, 0, 255));
+     );
   }
 
   .box-style {
@@ -29,11 +27,6 @@
     margin-left: auto;
     margin-right: auto;
     background-image: radial-gradient(circle at center,
-        rgb(103, 87, 87),
-        rgb(141, 75, 202),
-        rgb(106, 106, 204),
-        rgb(189, 146, 189),
-        rgb(164, 205, 221),
         white);
     padding-top: 200px;
     margin-top: 50px;
