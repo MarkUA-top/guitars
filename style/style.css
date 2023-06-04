@@ -105,7 +105,14 @@
     border-radius: 50%;
   }
   .main-slider {
-    width: 800px;
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
+  }
+  .text > span {
+    text-decoration: line-through;
+  }
+  
+  .link {
+    text-decoration: none;
   }
